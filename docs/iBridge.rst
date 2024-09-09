@@ -6,7 +6,7 @@ iBridge
     :undoc-members: 
     :show-inheritance: 
     
-    iBridge running procedure
+    **iBridge running procedure**
     -------------------------
 
     **Note**: This project is to identify target reactions or metabolites that will enhance production of commercial chemicals through a metabolite-centric approach
